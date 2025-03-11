@@ -28,11 +28,7 @@ Welcome to my **Cybersecurity Guides**! This repository contains a collection of
 
 ## 📖 Guides
 Here are some of the cybersecurity guides available:
-- 🔹 **Networking Basics** – OSI model, TCP/IP, Wireshark
 - 🔹 **Linux Security** – Hardening, permissions, SSH security
-- 🔹 **Windows Hardening** – Group policies, Defender, security baselines
-- 🔹 **Web Pentesting 101** – OWASP Top 10, SQLi, XSS
-- 🔹 **Incident Response** – SIEM, log analysis, malware forensics
 
 ---
 
