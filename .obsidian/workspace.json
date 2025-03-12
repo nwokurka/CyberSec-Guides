@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Spaces/Linux/Manage file permissions in Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Manage file permissions in Linux"
             }
           }
         ]
@@ -170,7 +170,20 @@
   },
   "active": "b9d8fe0a6b80bbf1",
   "lastOpenFiles": [
+    "Extras/Graphics/Pasted image 20250311173635.png",
+    "Extras/Graphics/Pasted image 20250311163814.png",
+    "Extras/Graphics/Pasted image 20250311163231.png",
+    "Extras/Graphics/LinuxPermissions.drawio.svg",
+    "Extras/Graphics/5f04259cf9bf5b57aed2c476-1719849148646.svg",
+    "Spaces/Linux/Manage file permissions in Linux.md",
+    "Extras/Graphics/Pasted image 20250311161927.png",
+    "Extras/Graphics/Pasted image 20250311161539.png",
+    "README.md",
+    "Spaces/Linux/Linux MOC 🗺️.md",
     "Home 🌍.md",
-    "README.md"
+    "Spaces/Linux",
+    "Spaces",
+    "Extras/Graphics",
+    "Extras"
   ]
 }
