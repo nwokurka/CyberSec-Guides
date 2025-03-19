@@ -1,7 +1,7 @@
 ---
 up: "[[Home 🌍]]"
 ---
-**Application:** A program that performs a specific task
+***Application:** A program that performs a specific task
 
 **Bash:** The default shell in most Linux distributions
 
